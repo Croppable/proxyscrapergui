@@ -1,0 +1,9 @@
+c:\users\xelogic\documents\visual studio 2010\Projects\Proxyscraper GUI\Proxyscraper GUI\bin\Debug\Proxyscraper GUI.exe
+c:\users\xelogic\documents\visual studio 2010\Projects\Proxyscraper GUI\Proxyscraper GUI\bin\Debug\Proxyscraper GUI.pdb
+c:\users\xelogic\documents\visual studio 2010\Projects\Proxyscraper GUI\Proxyscraper GUI\bin\Debug\Proxyscraper GUI.xml
+c:\users\xelogic\documents\visual studio 2010\Projects\Proxyscraper GUI\Proxyscraper GUI\obj\x86\Debug\Proxyscraper_GUI.Form1.resources
+c:\users\xelogic\documents\visual studio 2010\Projects\Proxyscraper GUI\Proxyscraper GUI\obj\x86\Debug\Proxyscraper_GUI.Resources.resources
+c:\users\xelogic\documents\visual studio 2010\Projects\Proxyscraper GUI\Proxyscraper GUI\obj\x86\Debug\Proxyscraper GUI.vbproj.GenerateResource.Cache
+c:\users\xelogic\documents\visual studio 2010\Projects\Proxyscraper GUI\Proxyscraper GUI\obj\x86\Debug\Proxyscraper GUI.exe
+c:\users\xelogic\documents\visual studio 2010\Projects\Proxyscraper GUI\Proxyscraper GUI\obj\x86\Debug\Proxyscraper GUI.xml
+c:\users\xelogic\documents\visual studio 2010\Projects\Proxyscraper GUI\Proxyscraper GUI\obj\x86\Debug\Proxyscraper GUI.pdb
